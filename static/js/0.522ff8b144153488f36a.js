@@ -1,2 +1,0 @@
-webpackJsonp([0],{XwkR:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"home"},[t("div",{staticClass:"header"},[this._v("\r\n        treeyerr\r\n    ")])])}]};var r=n("VU/8")({name:"Home"},s,!1,function(e){n("sVNB")},null,null);t.default=r.exports},sVNB:function(e,t){}});
-//# sourceMappingURL=0.522ff8b144153488f36a.js.map
